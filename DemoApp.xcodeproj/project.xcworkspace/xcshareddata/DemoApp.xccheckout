@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BD45528-DB30-42FB-8151-4E6AFC38C3F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F913E68F531892EDDE856B06EC591985F863433E</key>
+		<string>https://github.com/phaibin/NJKWebViewProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F913E68F531892EDDE856B06EC591985F863433E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/phaibin/NJKWebViewProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F913E68F531892EDDE856B06EC591985F863433E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F913E68F531892EDDE856B06EC591985F863433E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NJKWebViewProgress</string>
+		</dict>
+	</array>
+</dict>
+</plist>
